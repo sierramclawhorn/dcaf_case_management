@@ -13,9 +13,10 @@ module WelcomeMessageHelper
       "Keep up the good work, you're doing great!",
       "We're all rooting for you!",
       'We appreciate all that you do!',
-      "From San Francisco with love!"
-      "You're a real gem - the client_finder gem team"
-      "You're rad and your work is much appreciated!"
+      "From San Francisco with love!",
+      "You're a real gem - the client_finder gem team",
+      "You're rad and your work is much appreciated!",
+      "Roses are red, violets are blue, keeping doing good and THANK YOU!",
     ]
   end
 end
